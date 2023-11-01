@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 -->
 
 [![ljg980708's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljg980708&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:ljg980708@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
